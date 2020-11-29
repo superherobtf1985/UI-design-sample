@@ -3,19 +3,8 @@
     height: 2rem;
     float: right;
 }
-
-.issue-wrapper {
-    float: left;
-}
-
-.search-result-icon {
-    float: left;
-}
-
-.list {
-    height: 50px;
-}
-
-.list-1.on {
-    height: 400px;
+.preview-body {
+    display: none;
+    padding-right: 15px;
+    padding-left: 15px;
 }
